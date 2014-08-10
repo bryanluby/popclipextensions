@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>openheader.png</string>
+			<key>Shell Script File</key>
+			<string>openheader.sh</string>
+			<key>Title</key>
+			<string>Open Header</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Opens a header file if the selected text is valid and ends with &quot;.h&quot;.</string>
+	<key>Extension Identifier</key>
+	<string>com.bryanluby.popclip.extension.openheader</string>
+	<key>Extension Name</key>
+	<string>Open Header</string>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Bryan Luby</string>
+			<key>Link</key>
+			<string>http://www.luby.info/</string>
+		</dict>
+	</array>
+</dict>
+</plist>

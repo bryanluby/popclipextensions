@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>sublimetext.png</string>
+			<key>Shell Script File</key>
+			<string>sublimetext.sh</string>
+			<key>Title</key>
+			<string>Sublime Text</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Opens the current selection in a new Sublime Text document.</string>
+	<key>Extension Identifier</key>
+	<string>com.bryanluby.popclip.extension.sublimetext</string>
+	<key>Extension Name</key>
+	<string>Sublime Text</string>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Bryan Luby</string>
+			<key>Link</key>
+			<string>http://www.luby.info/</string>
+		</dict>
+	</array>
+</dict>
+</plist>
